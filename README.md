@@ -1,6 +1,9 @@
 # ldap-spring-boot
 Connect to ldap using spring-boot and spring ldap
 
+# Dependencies
+Spring LDAP, Spring Boot
+
 # build
 use MAVEN
 
