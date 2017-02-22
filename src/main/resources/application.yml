@@ -1,0 +1,12 @@
+spring:
+  profiles:
+    active: local
+  application:
+    name: "LDAP lookup"
+
+ldap:
+  url: ldap://host.net:1389
+  userDn: cn=Directory Manager
+  password: password
+  base: dc=isc,dc=com
+  clean: true
